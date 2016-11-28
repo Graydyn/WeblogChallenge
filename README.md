@@ -12,7 +12,7 @@ In this notebook we will parse a log file and answer the following questions:
 
 4. Find the most engaged users, ie the IPs with the longest session times
 
-In order to run all results below with tests, run weblog_stats.py
+In order to run all results below run weblog_stats.py (must be in pyspark), or to run tests run weblog_stats_test.py (works offline)
 
 ### Setup
 
